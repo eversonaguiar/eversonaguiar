@@ -1,6 +1,6 @@
 ### Salve Dev's, Everson aqui! :vulcan_salute:
 
-Formado em Gestão em Tecnologia da Informação pela Fatec Itu. Foco em desenvolvimento web back-end com foco em PHPOO e criação de temas e plugins WordPress. 
+Formado em Gestão em Tecnologia da Informação pela Fatec Itu. Foco em desenvolvimento web back-end com PHPOO e criação de temas e plugins WordPress. 
 
 ##
 
