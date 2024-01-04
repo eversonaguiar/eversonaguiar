@@ -1,6 +1,6 @@
-### Salve Dev's, Everson aqui! :vulcan_salute:
+### Hi Dev's, Everson here! :vulcan_salute:
 
-Formado em Gestão em Tecnologia da Informação pela Fatec Itu. Foco em desenvolvimento web back-end com PHPOO e criação de temas e plugins WordPress. 
+Graduated in Information Technology Management from Fatec Itu. Focus on back-end web development with PHPOO and creation of WordPress themes and plugins.
 
 ##
 
@@ -15,7 +15,7 @@ Formado em Gestão em Tecnologia da Informação pela Fatec Itu. Foco em desenvo
 
 
 <div> 
-  <a href="https://www.eversonaguiar.com.br" title="Meu Site"/><img src="https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black"></a> 
+<a href="https://www.eversonaguiar.com.br" title="Meu Site"/><img src="https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black"></a> 
 <a href="https://www.behance.net/evertecdigital" title="Behance EvertecDigital"/><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>   
 <a href="https://codepen.io/EvertecDigital" title="Codepen"/><img src="https://img.shields.io/badge/Codepen-fffffff?style=for-the-badge&logo=codepen&logoColor=black"></a> 
 <a href="https://www.linkedin.com/in/eversonaguiar" title="LinkdIn do Everson"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   
