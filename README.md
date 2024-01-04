@@ -8,7 +8,10 @@ Graduated in Information Technology Management from Fatec Itu. Focus on back-end
   <a href="https://github.com/eversonaguiar">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=eversonaguiar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <!--<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eversonaguiar&layout=compact&langs_count=16&theme=dracula"/>-->
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=eversonaguiar&theme=dark" >
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=eversonaguiar&theme=dark" />
+    
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=evertecdigital&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=evertecdigital&theme=dark" />
 </div>
 
 ## 
