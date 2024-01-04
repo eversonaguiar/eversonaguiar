@@ -11,9 +11,6 @@ Graduated in Information Technology Management from Fatec Itu. Focus on back-end
 <!--   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=eversonaguiar&theme=dark" /> -->
 </div>
 
-## 
-
-
 <div> 
 <a href="https://www.eversonaguiar.com.br" title="Meu Site"/><img src="https://img.shields.io/badge/website-ffffff?style=for-the-badge&logo=About.me&logoColor=black"></a> 
 <a href="https://www.behance.net/evertecdigital" title="Behance EvertecDigital"/><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>   
